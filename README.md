@@ -1,4 +1,4 @@
-### **Comparing the performance of a deep LSTM neural network and SARIMA model to forecast daily PM 2.5 concentration**
+# **Comparing the performance of a deep LSTM neural network and SARIMA model to forecast daily PM 2.5 concentration**
 
 *Please refer to this publication to learn more about this study.*
 
